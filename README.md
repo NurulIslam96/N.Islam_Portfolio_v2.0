@@ -30,7 +30,7 @@ I am actively open to **contract opportunities, project collaborations, and perm
 The fastest way to reach me is through the live **Message Panel** directly on my website—it is fully operational, real-time, and I review every single submission.
 
 Alternatively, you can find me here:
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) 
+- **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-nurul-islam-29452a257/)
 - **GitHub:** [https://github.com/your-username](https://github.com/NurulIslam96) 
 
 ---
