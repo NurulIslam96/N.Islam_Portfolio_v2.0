@@ -30,8 +30,8 @@ I am actively open to **contract opportunities, project collaborations, and perm
 The fastest way to reach me is through the live **Message Panel** directly on my website—it is fully operational, real-time, and I review every single submission.
 
 Alternatively, you can find me here:
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-nurul-islam-29452a257/)
-- **GitHub:** [https://github.com/your-username](https://github.com/NurulIslam96) 
+- **LinkedIn:** [linkedin.com/in/md-nurul-islam-29452a257](https://www.linkedin.com/in/md-nurul-islam-29452a257/)
+- **GitHub:** [github.com/NurulIslam96](https://github.com/NurulIslam96)
 
 ---
 
@@ -41,5 +41,5 @@ To clone and run this portfolio application locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/NurulIslam96/your-repo-name.git](https://github.com/NurulIslam96/your-repo-name.git)
    cd your-repo-name
